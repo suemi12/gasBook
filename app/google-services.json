@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "893145968909",
+    "firebase_url": "https://gasstation-d044a.firebaseio.com",
+    "project_id": "gasstation-d044a",
+    "storage_bucket": "gasstation-d044a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893145968909:android:6a77fcb57d28b989",
+        "android_client_info": {
+          "package_name": "app.ejemplos.com.gasstation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893145968909-nj2u1e38cnobn698mdv1uodg91caoa02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.ejemplos.com.gasstation",
+            "certificate_hash": "4cf712d85c839912be585fea9a2ae1a165df73b2"
+          }
+        },
+        {
+          "client_id": "893145968909-9dqjqhkajr80peelob1q0gqp1sa0v8aj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "893145968909-9dqjqhkajr80peelob1q0gqp1sa0v8aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBQ6LtSqrWDXtYsE_ohxhkAAotZw-1akY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893145968909-9dqjqhkajr80peelob1q0gqp1sa0v8aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

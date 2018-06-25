@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Gas Station</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">PRECIO GASOLINA MÉXICO</string>
+    <string name="map">Localiza el mejor precio</string>
+    <string name="title_activity_login">Sign in</string>
+
+
+    name= "prompt_password"
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Correo</string>
+
+    <string name="password">Contraseña</string>
+    <string name="action_sing_in">Sign in or register</string>
+    <string name="action_sign_in_shor">INICIAR SESIÓN</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="invalid_password">This password is too short</string>
+    <string name="incorrect_password">This password is incorrect</string>
+    <string name="field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."<!-- Strings related to login -->
+        <string name="prompt_user_id">Número de identificación</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesión</string>
+    <string name="action_sign_in_short">Iniciar sesión</string>
+    <string name="error_invalid_user_id">Número de identificación inválido</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="error_server">Error en el servidor</string>
+    <string name="error_incorrect_user_id">Número de identificación no registrado</string>
+    <string name="error_network">Conexión de red no disponible</string>
+    <string name="error_invalid_password">Contraseña inválida</string>
+    </string>
+    <string name="name">Nombre de usuario</string>
+    <string name="password_again">Confirma contraseña</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="sign_in">REGISTRARME</string>
+    <string name="loading">Cargando...</string>
+    <string name="failed">Lo sentimos, la transacción no pudo ser completada, por favor intenta mas tarde.</string>
+    <string name="complete">Registro exitoso</string>
+    <string name="user_name_error">Ingresa usuario</string>
+    <string name="user_password_error">Ingresa contraseña</string>
+    <string name="user_pass_again_error">Confirma contraseña</string>
+    <string name="user_email_error">Ingresa correo</string>
+    <string name="password_again_error">Los datos no coinciden</string>
+    <string name="password_invalid">Correo no válido</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
